@@ -1,0 +1,5 @@
+"# Calculadora de Interes Simple" 
+"La formula principal es: I = P * r * t" 
+"- P = Capital principal (dinero inicial)" 
+"- r = Tasa de interes" 
+"- t = Tiempo" 
